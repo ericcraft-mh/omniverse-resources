@@ -22,6 +22,7 @@ NVIDIA On-Demand: [Omniverse Video Lists](https://docs.omniverse.nvidia.com/plat
 [NVIDIA Omniverse Channel](https://www.youtube.com/c/NVIDIAOmniverse) (YouTube)</br>
 NVIDIA Studio: [Omniverse Search](https://www.youtube.com/channel/UCDeQdW6Lt6nhq3mLM4oLGWw/search?query=Omniverse) (YouTube)</br>
 NVIDIA: [Omniverse Search](https://www.youtube.com/c/NVIDIA/search?query=Omniverse) (YouTube)</br>
+[PathCopyCopy](https://pathcopycopy.github.io/) [^3]
 ## Visual Studio Code
 [Visual Studio Code](https://code.visualstudio.com/)
 ###### Visual Studio Code Extensions
@@ -30,3 +31,4 @@ Pixar USD Language Extension by Animal Logic: [USD Language](https://marketplace
 Material Definition Language by NVIDIA: [vscode-mdl-language](https://marketplace.visualstudio.com/items?itemName=OmerShapira.mdl)</br>
 [^1]: NVIDIA Account may be required to access content.
 [^2]: Includes Omniverse Engine values.
+[^3]: Provides a way to copy Omniverse complaint UNIX paths.
