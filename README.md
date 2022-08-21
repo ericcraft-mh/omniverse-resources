@@ -1,5 +1,3 @@
-# omniverse-resources
-Useful resources related to NVIDIA Omniverse and USD.
 ## USD Resources
 [Pixar USD](https://graphics.pixar.com/usd/release/index.html)</br>
 Pixar USD: [Universal Scene Description (USD) API](https://graphics.pixar.com/usd/release/api/index.html)</br>
