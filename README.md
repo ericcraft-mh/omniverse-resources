@@ -5,7 +5,7 @@
 ###### NVIDIA Developer
 [USD](https://developer.nvidia.com/usd)</br>
 [Working with USD Python Libraries](https://developer.nvidia.com/usd/tutorials)</br>
-[USD Python API Notes](https://developer.nvidia.com/usd/apinotes)</br>
+[USD Python API Notes](https://developer.nvidia.com/usd/apinotes)
 ## Omniverse Resources
 ###### NVIDIA
 [Omniverse Documentation Site](https://docs.omniverse.nvidia.com/)</br>
