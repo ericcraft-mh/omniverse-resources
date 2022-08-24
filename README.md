@@ -31,4 +31,4 @@ Pixar USD Language Extension by Animal Logic: [USD Language](https://marketplace
 Material Definition Language by NVIDIA: [vscode-mdl-language](https://marketplace.visualstudio.com/items?itemName=OmerShapira.mdl)</br>
 [^1]: NVIDIA Account may be required to access content.
 [^2]: Includes Omniverse Engine values.
-[^3]: Provides a way to copy Omniverse complaint UNIX paths.
+[^3]: Provides a way to copy Omniverse compliant UNIX paths.
